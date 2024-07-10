@@ -23,6 +23,4 @@ def main():
                 print("Queue kosong")
         elif p == '3':
             break
-
-if __name__ == "__main__":
-    main()
+main()
